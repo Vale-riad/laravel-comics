@@ -1,4 +1,4 @@
-s (19 sloc) 607 Bytes
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
@@ -21,7 +21,6 @@ s (19 sloc) 607 Bytes
 
     <main>
         @yield('page-content')
-        <h2>lista prodotti </h2>
     </main>
 
     @include('partials.footer')
