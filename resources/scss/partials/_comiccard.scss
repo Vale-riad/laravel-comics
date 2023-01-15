@@ -40,7 +40,7 @@
 }
 .ads-section {
     background-color: #0282f9;
-    margin-top: auto;
+
     img {
         max-width: 50px;
         max-height: 50px;
@@ -52,6 +52,7 @@
     div {
         display: flex;
         justify-content: space-between;
+        align-items: center;
         padding: 20px;
     }
 }

@@ -46,7 +46,7 @@
     </div>
     <div>
       <img src="{{Vite::asset("resources/img/buy-dc-power-visa.svg")}}" />
-      <span>Dc</span>
+      <span>Dc Power visa</span>
     </div>
    </div>
 </section>
