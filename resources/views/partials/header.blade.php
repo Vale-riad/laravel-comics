@@ -19,7 +19,7 @@
         <span>Search</span>
             <i class="fa-regular fa-magnifying-glass"></i>
         </div>
-    </div>  
-    <div class="hero">
-    </div>  
+    </div>    
 </header>
+<div class="hero">
+</div>
