@@ -25,5 +25,31 @@
         </div>
     </section>
 </div>
+
+<section class="ads-section">
+   <div class="container">
+   <div>
+      <img src="{{Vite::asset("resources/img/buy-comics-digital-comics.png")}}">
+      <span>Digital Comics</span>
+    </div>
+    <div>
+      <img src="{{Vite::asset("resources/img/buy-comics-merchandise.png")}}"/>
+      <span>DC Merchandise</span>
+    </div>
+    <div>
+      <img src="{{Vite::asset("resources/img/buy-comics-shop-locator.png")}}" />
+      <span>Subscription</span>
+    </div>
+    <div>
+      <img src="{{Vite::asset("resources/img/buy-comics-subscriptions.png")}}" />
+      <span>Comic shop locator</span>
+    </div>
+    <div>
+      <img src="{{Vite::asset("resources/img/buy-dc-power-visa.svg")}}" />
+      <span>Dc</span>
+    </div>
+   </div>
+</section>
+
 @endsection
 

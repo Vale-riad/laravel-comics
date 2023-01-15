@@ -19,6 +19,7 @@
     color: white;
     margin: auto;
     padding: 15px 50px;
+    margin-bottom: 30px;
 }
 .my-bg {
     background-color: #1c1c1c;
@@ -35,5 +36,22 @@
     h5 {
         color: fff;
         width: 185px;
+    }
+}
+.ads-section {
+    background-color: #0282f9;
+    margin-top: auto;
+    img {
+        max-width: 50px;
+        max-height: 50px;
+    }
+    span {
+        padding: 10px;
+        color: white;
+    }
+    div {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
     }
 }
