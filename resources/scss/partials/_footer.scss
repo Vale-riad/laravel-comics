@@ -1,0 +1,12 @@
+.footer-top {
+    height: 400px;
+    background-image: url(../img/footer-bg.jpg);
+    background-size: cover;
+    .container {
+        background-image: url(../img/dc-logo-bg.png);
+        height: 100%;
+        background-repeat: no-repeat;
+        background-position: right;
+        display: flex;
+    }
+}
