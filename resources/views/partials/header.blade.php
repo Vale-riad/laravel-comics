@@ -1,7 +1,7 @@
 <header>
     <div class="container d-flex justify-content-between align-items-center mb-2">
         <img src="{{Vite::asset("resources/img/dc-logo.png")}}">
-        <nav class="ms-nav">
+        <nav>
             <ul class="d-flex list-unstyled">
                 <li><a class="menu-item" href="#"></a>CHARACTERS</li>
                 <li><a class="menu-item" href="#"></a>COMICS</li>
